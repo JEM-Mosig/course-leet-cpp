@@ -107,7 +107,7 @@ int main() {
     std::cout << 999 << " + " << 1 << ": " << test(999, 1) << std::endl;
     std::cout << 9 << " + " << 1 << ": " << test(9, 1) << std::endl;
     std::cout << 1 << " + " << 9 << ": " << test(1, 9) << std::endl;
-    std::cout << 9 << " + " << 9 << ": " << test(1, 9) << std::endl;
+    std::cout << 9 << " + " << 9 << ": " << test(9, 9) << std::endl;
 
     return 0;
 }
